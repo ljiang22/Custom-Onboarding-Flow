@@ -1,9 +1,9 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { userApi, configApi } from '@/lib/api';
-import { User, OnboardingConfig } from '@/types';
-import OnboardingWizard from '@/components/OnboardingWizard';
+import { userApi, configApi } from '../lib/api';
+import { User, OnboardingConfig } from '../types';
+import OnboardingWizard from '../components/OnboardingWizard';
 
 export default function Home() {
   const [user, setUser] = useState<User | null>(null);

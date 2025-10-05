@@ -1,8 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import { User, UpdateUserRequest } from '@/types';
-import { userApi } from '@/lib/api';
+import { User, UpdateUserRequest } from '../../types';
+import { userApi } from '../../lib/api';
 
 interface Step1Props {
   user: User;

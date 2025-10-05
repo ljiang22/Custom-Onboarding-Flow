@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { User, OnboardingConfig, ComponentType, UpdateUserRequest } from '@/types';
+import { User, OnboardingConfig, ComponentType, UpdateUserRequest } from '../../types';
 import AboutMeComponent from './components/AboutMeComponent';
 import AddressComponent from './components/AddressComponent';
 import BirthdateComponent from './components/BirthdateComponent';

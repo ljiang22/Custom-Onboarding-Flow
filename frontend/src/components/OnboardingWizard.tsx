@@ -1,8 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import { User, OnboardingConfig, UpdateUserRequest } from '@/types';
-import { userApi } from '@/lib/api';
+import { User, OnboardingConfig, UpdateUserRequest } from '../types';
+import { userApi } from '../lib/api';
 import Step1 from './onboarding/Step1';
 import Step2 from './onboarding/Step2';
 import Step3 from './onboarding/Step3';

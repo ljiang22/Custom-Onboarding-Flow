@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { OnboardingConfig, ComponentConfig, ComponentType } from '@/types';
-import { configApi } from '@/lib/api';
+import { OnboardingConfig, ComponentConfig, ComponentType } from '../../types';
+import { configApi } from '../../lib/api';
 import {
   DndContext,
   closestCenter,
