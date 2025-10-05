@@ -119,7 +119,9 @@ public
 # Build outputs
 dist/
 build/
-lib/
+# Only ignore lib directories in build outputs, not source lib directories
+**/dist/lib/
+**/build/lib/
 
 # Logs
 logs
@@ -213,9 +215,6 @@ Thumbs.db
 # Cursor
 .cursorignore
 .cursorindexingignore
-
-# MongoDB
-data/
 
 # Local development
 .env.local
