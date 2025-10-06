@@ -103,10 +103,15 @@ The system supports three customizable form components:
    npm run dev
    ```
 
-6. **Access the application**
+6. **Access the application (local)**
    - **User Onboarding**: http://localhost:3000
    - **Admin Panel**: http://localhost:3000/admin
    - **Data Table**: http://localhost:3000/data
+  
+7. **Access the application (production)**
+   - **User Onboarding**: https://custom-onboarding-flow-production.up.railway.app
+   - **Admin Panel**: https://custom-onboarding-flow-production.up.railway.app/admin
+   - **Data Table**: https://custom-onboarding-flow-production.up.railway.app/data
 
 ## 📖 Usage Guide
 
@@ -236,3 +241,4 @@ This project is licensed under the MIT License.
 
 
 **Built with ❤️ using Next.js, Express, and MongoDB**
+
