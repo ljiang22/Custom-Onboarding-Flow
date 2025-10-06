@@ -237,10 +237,13 @@ This project is licensed under the Apache-2.0 License.
 - Ensure all dependencies are installed
 - Check MongoDB connection status
 
+### Contact
+- Please feel free to contact me if you have any further questions at: jiang2015leon@gmail.com
 ---
 
 
 **Built with ❤️ using Next.js, Express, and MongoDB**
+
 
 
 
