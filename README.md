@@ -1,6 +1,6 @@
 # Custom Onboarding Flow
 
-A flexible, customizable user onboarding system built with Next.js, Express, and MongoDB. This application allows non-technical administrators to easily configure and manage user onboarding flows through a drag-and-drop admin interface.
+A flexible, customizable user onboarding system built with Next.js, Express, and MongoDB. This application allows (non-technical) administrators to easily configure and manage user onboarding flows through a drag-and-drop admin interface.
 
 ## 🚀 Features
 
@@ -233,5 +233,6 @@ This project is licensed under the MIT License.
 - Check MongoDB connection status
 
 ---
+
 
 **Built with ❤️ using Next.js, Express, and MongoDB**
